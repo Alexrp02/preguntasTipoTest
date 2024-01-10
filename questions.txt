@@ -1,0 +1,555 @@
+﻿1. Es una aplicación de la epidemiología:
+a) Conocer la distribución de los fenómenos de salud/enfermedad en la población y su distribución en el espacio y en el tiempo.
+b) Evaluar las pruebas diagnósticas, valorando su reproductividad y exactitud.
+c) Identificar nuevas enfermedades y completar los cuadros clínicos ya conocidos.
+*d) Todas las opciones son correctas.
+
+
+2. En la etapa analítica del método epidemiológico:
+a) Nos centramos en realizar observaciones y ordenar estas.
+b) Formulamos distintas hipótesis para el estudio en cuestión.
+*c) Se comprueban las hipótesis que se han formulado.
+d) Se analizan datos matemáticos.
+
+
+3. La Teoría de la causalidad:
+a) Se refiere a que todas las relaciones son debidas al azar, son casuales
+b) Es sinónimo de la teoría de la Relatividad, todo es relativo
+*c) Estudia la relación existente entre la exposición a un determinado factor de riesgo y el efecto que este causa, causa-efecto.
+d) Estudia la relación existente entre la exposición a un factor de protección y el daño que este causa.
+
+
+4. ¿A qué hace referencia el criterio de causalidad de “gradientes biológicos”?
+a) El resultado se repite en distintos estudios con condiciones similares.
+b) El riesgo es mayor cuando hay exposición al factor de riesgo, que cuando no lo hay.
+*c) El efecto aumenta cuando la exposición al factor de riesgo, siendo este un microorganismo, es mayor.
+d) La exposición al factor de riesgo debe anteceder, en el tiempo, a la aparición de la enfermedad.
+
+
+5. ¿Cuál de estos es un marcador de riesgo?:
+*a) La edad, el sexo o la raza.
+b) El consumo de tabaco.
+c) El sangrado de encías
+d) Ninguna opción es correcta.
+
+
+
+
+
+
+6. ¿Cuál de estos es un factor de riesgo?
+a) La edad, el sexo o la raza.
+*b) El consumo de tabaco.
+c) El sangrado de encías
+d) Ninguna opción es correcta.
+
+
+7. ¿Cuál de estos es un indicador de riesgo?
+a) La edad, el sexo o la raza.
+b) El consumo de tabaco.
+*c) El sangrado de encías
+d) Ninguna opción es correcta.
+
+
+8. De las siguientes definiciones de factor de riesgo, ¿Cuál no es la correcta?
+a) Factor que genera enfermedad.
+b) Factor que modifica la probabilidad de desarrollar una enfermedad.
+*c) Factor que sí aparece en un individuo provoca sin remedio la enfermedad.
+d) Agente causal de la enfermedad.
+
+
+9. ¿Cuáles son las dos ramas que distinguimos de la demografía?:
+a) Demografía estática y discreta
+b) Demografía dinámica y nominal.
+c) Demografía discreta y evolutiva.
+*d) Demografía dinámica y estática.
+
+
+10.¿A qué se refiere la evolución en términos de población?
+a) Al tamaño de la población
+*b) A las variables que se modifican con el tiempo, como la natalidad o la inmigración.
+c) Al lugar geográfico que ocupa una población
+d) A la edad, sexo, nacionalidad, nivel de formación, etc.
+
+
+11.¿A qué se refiere la estructura en términos de población?
+a) Al tamaño de la población
+b) A las variables que se modifican con el tiempo, como la natalidad o la inmigración
+c) Al lugar geográfico que ocupa una población
+*d) A la edad, sexo, nacionalidad, nivel de formación, etc.
+
+
+12.Las principales fuentes de información dentro de la demografía estática son:
+a) El censo y el padrón.
+b) La natalidad, mortalidad y movimientos migratorios
+c) El registro civil y distintas encuestas.
+*d) A y C son correctas
+
+
+
+
+13.En relación con el censo, señala la opción verdadera:
+a) Es un registro administrativo donde constan los ciudadanos que residen en un municipio.
+b) Lo realizan los ayuntamientos cada 10 años.
+*c) Es universal.
+d) Se realiza a nivel colectivo.
+
+
+14.Los nacimientos, defunciones, matrimonios y divorcios son las principales estadísticas de:
+a) Padrón
+*b) Registro civil
+c) Censo
+d) Encuestas demográficas
+
+
+15. La pirámide progresiva:
+a) Tiene forma de bulbo o hucha.
+b) Es propia de países desarrollados con buen nivel económico y sistema sanitario bueno.
+*c) Refleja una población con elevada natalidad y mortalidad.
+d) A y B son ciertas.
+
+
+16.La pirámide estacionaria:
+a) Tiene forma de bulbo o hucha.
+*b) Es propia de países desarrollados con buen nivel económico y sistema sanitario bueno.
+c) Refleja una población con elevada natalidad y mortalidad.
+d) A y B son ciertas.
+
+
+17.El índice de dependencia:
+a) Nos dice a la edad que nos tenemos que jubilar
+*b) Relaciona a las personas dependientes con quienes las sostienen, es decir las que están en edad de trabajar.
+c) El gobierno lo utiliza para mejorar la prestación por jubilación
+d) Todas son correctas
+
+
+18.Entre los factores culturales que afectan a la natalidad y a la fecundidad encontramos:
+*a) Nivel de formación.
+b) Acceso a la vivienda
+c) Leyes sobre salud reproductiva
+d) Ayudas públicas.
+
+
+19.No es cierto:
+*a) Los años potenciales de vida perdidos (APVP) es un indicador cuyo valor es mayor cuando la enfermedad produce mortalidad a edad temprana.
+b) La razón de sexo al nacer se puede calcular también por edad.
+c) Las tablas de vida calculan la esperanza de vida y probabilidad de supervivencia según el sexo.
+d) La fecundidad es el número de descendientes que se tiene en relación con la población femenina (de 15 a 49 años).
+
+
+20.Señala la opción falsa.
+a) Los movimientos naturales de la población se refieren a los nacimientos, matrimonios y defunciones.
+b) El saldo vegetativo es la diferencia entre el número de defunciones y el número de nacimientos de una determinada población en un año.
+c) La estimación que hace referencia al saldo vegetativo da lugar a la tasa de crecimiento natural.
+*d) Todas las opciones son verdaderas.
+
+
+21.No es un muestreo probabilístico:
+a) Muestreo aleatorio simple.
+b) Muestreo sistemático.
+*c) Muestreo por cuota.
+d) Muestreo estratificado.
+
+
+22.No es un muestreo no probabilístico:
+e) Muestreo por conveniencia
+*f) Muestreo por conglomerado
+g) Muestreo de bola de nieve
+h) Muestreo discrecional
+
+
+23.El error aleatorio:
+a) Disminuye aumentando la población
+b) Se debe al azar
+c) Afecta a la precisión del estudio
+*d) Todas son correctas
+
+
+24.El error sistemático:
+a) Aumenta disminuyendo la población
+b) Es debido al azar
+*c) Afecta a la validez
+d) Todas son falsas
+
+25.La validez externa:
+a*) Implica la posibilidad de inferir los resultados de un estudio a la población general.
+b) Se extrapola los resultados del estudio a la población muestra.
+c) Obtenemos la validez externa cuando no encontramos error aleatorio en el estudio.
+d) Todos los estudios tienen validez externa e interna.
+
+
+26. Los sesgos:
+a) Son errores aleatorios
+*b) Son errores sistemáticos
+c) Pueden ser errores de ambos tipos
+d) Ninguna es correcta
+
+
+27.Los sesgos los podemos clasificar en:
+*a) Dos tipos, de selección y de información
+b) Sólo existe un tipo de sesgo
+c) Dos tipos, de información y de análisis
+d) Tres tipos, de información, de selección y de análisis
+
+
+28.Los factores de confusión:
+a) Son factores externos al estudio que alteran los resultados.
+b) Para evitarlos, diseñamos estrategias en el diseño y en el análisis del estudio.
+c) Siempre crean un error en una dirección
+*d) A y B son correctas
+
+
+29.El pareamiento, dentro de las estrategias para evitar los factores de confusión:
+a) Limita la participación del factor de confusión en el estudio
+b) Hace que las variables se distribuyan de manera aleatoria
+*c) Iguala las condiciones
+d) Todas son falsas
+
+
+30.Los estudios epidemiológicos se dividen en:
+*a) Estudios observacionales y estudios experimentales
+b) Estudios analíticos y no analíticos
+c) Estudios de casos y controles
+d) Estudios experimentales y de campo.
+
+31. Los estudios observacionales se caracterizan por:
+a) El investigador interviene y manipula de forma activa el estudio.
+b) Lo sujetos en este estudio se dedican a probar la eficacia de distintos tratamientos.
+c) En estos estudios hay un grupo de control con el que comparar.
+*d) Todas son incorrectas.
+
+
+32. Los estudios observacionales se dividen en:
+*a) Estudios descriptivos y estudios analíticos.
+b) Estudios de corte o de prevalencia.
+c) Estudios ecológicos y analíticos
+d) Estudios de series de casos y ensayos clínicos.
+
+
+33. En los estudios observacionales descriptivos:
+a) Son estudios en los que el investigador no interviene ni manipula los factores de exposición.
+b) Se caracteriza por la ausencia de un grupo de comparación de los resultados
+c) Se clasifican en: serie de casos, estudios de prevalencia y estudios ecológicos
+*d) Todas son correctas
+
+
+34. Los estudios de serie de casos (señala la incorrecta)
+a) Comunican una enfermedad poco común o un nuevo efecto secundario a un tratamiento documentado.
+*b) Se estudia una única vez cada sujeto, sin analizar cuando enferman o el tiempo.
+c) Una limitación es que no se puede comprobar la asociación estadística.
+d) No existe un grupo control por lo que no se puede valorar una asociación estadística.
+
+
+35. Los estudios de prevalencia (señala la incorrecta):
+*a) La secuencia temporal está registrada.
+b) Cada sujeto se estudia una única vez.
+c) Son estudios transversales.
+d) La A es falsa.
+
+
+36. Entre las aplicaciones de los estudios de prevalencia está:
+a) Realizar ensayos comunitarios de prevención primaria.
+b) Comprobar la efectividad de un medicamento.
+*c) Comprobar la frecuencia de la enfermedad en una población.
+d) Ninguna opción es correcta.
+
+
+
+
+37. Los estudios ecológicos:
+a) Estudia a individuos.
+b) Describen enfermedades en la población raras.
+*c) Son el primer paso a la hora de investigar una posible relación entre exposición y enfermedad
+d) Todas son correctas.
+
+
+38. Los estudios ecológicos mixtos:
+a) Se mide la variable de exposición.
+b) Se estudian en varias regiones geográficas.        
+c) Realizan un estudio en un periodo de tiempo.
+*d) Combinan estudios múltiples y de tendencia temporal
+
+
+39. Las variables agregadas:
+a) Aspectos que no pueden analizarse de forma individual.
+*b) Proporciones o medias que muestran el promedio del conjunto de una característica.
+c) Caracterizan al medio físico del lugar del estudio ecológico.
+d) Todas son incorrectas.
+
+
+40. Las variables globales:
+*a) Aspectos que no pueden analizarse de forma individual.
+b) Proporciones o medias que muestran el promedio del conjunto de una característica.
+c) Caracterizan al medio físico del lugar del estudio ecológico.
+d) Todas son incorrectas.
+
+
+41. Las variables que caracterizan el medio físico del lugar del estudio ecológico son:
+a) Variables globales
+*b) Variables ambientales
+c) Variables variables
+d) Variables agregadas
+
+
+42. Las técnicas estadísticas, las cuales se refieren a variables cualitativas, de un estudio ecológico son:
+a) Análisis multinivel.
+b) Modelos de regresión lineal
+c) Medidas de correlación lineal
+*d) Medidas de asociación
+
+
+
+
+43. Entre las limitaciones de los estudios ecológicos:
+a) Falacia ecológica.
+b) Multicolinealidad.
+c) Ambigüedad temporal.
+*d) Todas son correctas.
+
+
+44. En los estudios de cohortes, en la fase de seguimiento:
+a) Se anotan los sujetos que han observado.
+*b) Se realiza el seguimiento de los grupos durante el tiempo de estudio.
+c) Se calcula la incidencia de la enfermedad
+d) Aceptamos o refutamos la hipótesis en función de los resultados.
+
+
+45. Una de las principales ventajas de los estudios de cohortes:
+a) Se necesita un tamaño de muestra muy pequeño.
+b) Son estudios baratos y cortos.
+*c) Establecen una relación temporal.
+d) A y B son ciertas.
+
+
+46. Entre las limitaciones de los estudios de cohortes encontramos:
+a) Son estudios donde no se estudia el efecto de una exposición sobre distintas enfermedades
+*b) No pueden estudiar enfermedades raras
+c) Establecen una relación temporal.
+d) Se puede calcular el riesgo relativo.
+
+
+47. En la definición y selección de los controles dentro de los estudios de casos y controles:
+a) Es uno de los puntos más complicados.
+b) Han debido de estar expuestos al factor de riesgo.
+c) Deben ser comparables a los casos.
+*d) Todas son correctas.
+
+
+48. Para realizar el análisis estadístico de un estudio de casos y controles:
+*a) Ods ratio
+b) Incidencia acumulada.
+c) Riesgo relativo
+d) B y C son correctas.
+
+49. No es cierto, que una ventaja de los estudios de casos y controles:
+*a) Miden el riesgo, la incidencia o la prevalencia de una enfermedad.
+b) Son muy útiles para estudiar enfermedades raras o con un periodo de latencia largo.
+c) Su desarrollo no supone ningún riesgo para los sujetos del estudio
+d) Son útiles para el cribado de cáncer.
+
+
+50. En los estudios de casos y controles encontramos sesgos de:
+a) Sesgos de información, se dan cuando los sujetos estudiados no son representativos de la población general.
+b) Sesgos de confusión, pueden ser provocados por el entrevistador o por los propios sujetos.
+c) Sesgos de selección, el efecto de una variable externa al estudio puede enmascarar una asociación existente.
+*d) Sesgos de selección, se da cuando los sujetos estudiados no son representativos de la población general, esto es más probable cuanto menor es el tamaño de la población estudiada.
+
+
+51. Los estudios experimentales:
+a) Son aquellos en los que el investigador no toma parte ni manipula las condiciones del estudio.
+b) Tenemos un grupo de control y otro grupo de controles.
+*c) Son estudios prospectivos, en los que el inicio del estudio es anterior al desarrollo del efecto.
+d) Aportan un menor control sobre la exposición.
+
+
+52. Los estudios experimentales se clasifican en:
+a) Ensayos de prevención primaria y ensayos de campo.
+*b) Ensayos clínicos y ensayos de prevención primaria.
+c) Ensayos de campo y ensayos clínicos.
+d) Ensayos clínicos y ensayos comunitarios.
+
+
+53. La siguiente definición “La asignación de los sujetos del estudio a uno de los grupos experimentales usando un mecanismo aleatorio, de manera que ni el sujeto ni el investigador conozcan qué intervención se va llevar a cabo en dicho sujeto” se corresponde con:
+*a) Aleatorización
+b) Enmascaramiento
+c) Doble ciego
+d) Todas son correctas
+
+54. El procedimiento por el cual se oculta al investigador qué tratamiento está recibiendo cada sujeto se denomina:
+a) Aleatorización
+*b) Enmascaramiento
+c) Doble ciego
+d) Todas son correctas
+
+
+55. El enmascaramiento doble ciego:
+*a) Es donde los sujetos que reciben el tratamiento y los investigadores desconocen el grupo al que pertenece el sujeto en cuestión.
+b) Se incluye a toda persona involucrada en la investigación, por ejemplo, a las personas que suministran el tratamiento o las que evalúan los datos obtenidos.
+c) Solo un grupo desconoce la intervención que se suministra, normalmente, los sujetos
+d) Es el procedimiento por el cual se oculta al investigador qué tratamiento recibe cada sujeto de su estudio.
+
+
+56. Los ensayos comunitarios:
+a) Tratan sujetos sanos, pero en riesgo de padecer la enfermedad.
+*b) Son una ampliación de los ensayos de campo.
+c) Estudian posibles factores de prevención.
+d) Ninguna es correcta
+
+
+57. Entre las características que definen los ensayos clínicos encontramos:
+*a) El enmascaramiento, estudio controlado, prospectivo y aleatorio.
+b) Retrospectivo, aleatorio, y estudio controlado.
+c) Estudio sin ética y con un tamaño de muestra suficiente
+d) Todas son correctas.
+
+
+58. El efecto nocebo se define como:
+a) El efecto que produce una sustancia o intervención activa que produce mejoras en la enfermedad.
+b) El efecto que produce una sustancia o intervención inactiva que produce mejoras en la enfermedad.
+c) El efecto que produce una sustancia o intervención activa que produce síntomas adversos a los esperados.
+*d) El efecto que produce una sustancia o intervención inactiva que produce síntomas adversos a los esperados.
+
+59. Dentro del grupo control en un ensayo clínico:
+a) Se les administra un placebo solo para ver su deterioro.
+b) Son sujetos sanos a los que se les administra el nuevo fármaco.
+*c) Administración de un placebo o bien un medicamento de referencia
+d) Se encuentran los sujetos a los que se les administra el nuevo fármaco
+
+
+60. Comprobar que el fármaco funciona es el objetivo de:
+*a) La fase II
+b) La fase I
+c) La fase III
+d) La fase IV
+
+
+61. El doble enmascaramiento es típico de:
+a) La fase II
+b) La fase I
+*c) La fase III
+d) La fase IV
+
+
+62. Comprobar la posibilidad de nuevos usos del fármaco, así como otros efectos secundarios se da en:
+a) La fase II
+b) La fase I
+c) La fase III
+*d) La fase IV
+
+
+63. Comprobar la seguridad del tratamiento en seres humanos, determinando la mejor vía de administración se da en:
+a) La fase II
+*b) La fase I
+c) La fase III
+d) La fase IV
+
+
+64. Las técnicas de vigilancia epidemiológica son:
+a) Clínica
+b) De laboratorio
+c) Declaración obligatoria de enfermedades
+*d) Todas son correctas
+
+65. Las distintas etapas de la investigación en epidemiología se corresponden con:
+*a) Planificación, ejecución y análisis.
+b) Planificación, ejecución y comprobación
+c) Planificación, desarrollo y evolución.
+d) Ninguna es correcta.
+
+
+66. ¿Cuáles son los métodos de obtención de datos basados en la observación?
+a) Simple.
+b) Participante.
+c) Primarios y secundarios
+*d) A y B son correctas.
+
+
+67. ¿Cuáles son las redes de vigilancia?
+a) Sistemas Internacionales de Vigilancia Epidemiológica.
+b) Red Europea de Vigilancia Epidemiológica de Enfermedades Transmisibles.
+c) Red Nacional de Vigilancia Epidemiológica.
+*d) Todas son correctas.
+
+
+68. Si realizamos un estudio sobre la efectividad de un determinado adhesivo para prótesis dentales el objetivo será… señale la correcta:
+a) Ver a cuantas personas mayores se le cae la prótesis y reírnos.
+*b) Comprobar si la retención de la prótesis es mayor cuando se usa el adhesivo.
+c) Ponerlo y rezar para que pegue la prótesis.
+d) Comparar la movilidad de la prótesis en los pacientes que usan adhesivo con la movilidad en aquellos que no usan el adhesivo.
+
+
+69. ¿Qué observamos en la exploración intraoral?
+a) Tejidos blandos
+b) Dientes
+c) Tejidos periodontales
+*d) Todas son correctas
+
+
+70. Señala la respuesta correcta sobre los ejemplos de variables cualitativas
+a) Número de hijos
+b) Talla
+c) Número de pacientes ingresados
+*d) Nivel socioeconómico
+
+
+
+
+
+
+
+
+
+
+71. ¿Cuál es la técnica que utilizan en rayos X para obtener imágenes en tres dimensiones de los dientes y huesos maxilares?
+a) Ortopantomografía.
+b) Periapical.
+c) Oclusal.
+*d) TAC
+
+
+72. ¿Cuáles son las radiografías intraorales más utilizadas en odontología?
+a) Periapicales
+b) Aletas de mordida
+c) Oclusales
+*d) Todas las anteriores
+
+
+73. ¿Cuál NO es una técnica a la hora de elaborar un cuestionario?
+a) Extensión.
+b) Tipo de pregunta.
+*c) Que sea estructurada o no estructurada.
+d) Las preguntas deben agruparse por temas.
+
+
+74. La observación que investiga, pero no se involucra en la realidad que observa, de manera que no establece ninguna clase interacción:
+a) ninguna es correcta
+*b) Observación simple
+c) Observación participante
+d) B y C son correctas
+
+
+75. Si revisas la mucosa yugal estás haciendo una exploración:
+a) Exploración dental
+*b) Exploración de tejidos blandos
+c) Exploración periodontal
+d) Ninguna es correcta
+
+
+76. ¿Qué características debe tener la observación científica? Señala la incorrecta.
+a) Constar de un propósito específico
+b) Planificación meticulosa y sistemática
+*c) No llevar un control por escrito
+d) Validez y confiabilidad
+
+77. ¿Qué radiografías son las más utilizadas?
+a) Oclusal.
+b) Aleta de mordida.
+c) Telerradiografía lateral de cráneo.
+*d) Periapical y ortopantomografía.
+
+
+78. ¿Cuál es el método de obtención de datos más utilizado en investigación social?:
+a) Encuesta
+b) Análisis en laboratorios
+c) Pueden ser cara a cara, teléfono o internet
+*d) A y C son correctas.

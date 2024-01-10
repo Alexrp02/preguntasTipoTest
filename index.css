@@ -1,0 +1,22 @@
+*{
+    font-size: 1.25rem;
+}
+
+h3{
+    font-size: 2rem;
+
+}
+
+#input-text {
+    width: 50vw;
+    height: 90vh;
+}
+
+#content-wrapper {
+    display: grid;
+    grid-template-columns: 1fr;
+}
+
+#quiz-container {
+    margin-bottom: 32px;
+}
