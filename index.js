@@ -2,7 +2,8 @@ const form = document.getElementById('form');
 
 let text = "" ;
 
-let quiz = []
+let quiz = [] ;
+let quizCopy = [] ;
 
 let random = false ;
 
@@ -12,8 +13,9 @@ form.addEventListener('submit', async (e) => {
     e.preventDefault();
     const formData = new FormData(form);
     const data = Object.fromEntries(formData);
+    console.log(data);
 
-    if(data["random"] == "on") {
+    if(data["random-check"] == "on") {
         random = true ;
     }else {
         random = false ;
@@ -52,9 +54,11 @@ form.addEventListener('submit', async (e) => {
 });
 
 function insertQuiz() {
+    quizCopy = quiz.slice() ;
     // Get numberOfQuestions random questions from quiz
-    if (random)
-        quiz = quiz.sort(() => Math.random() - 0.5);
+    if (random){
+        quizCopy = quizCopy.sort(() => Math.random() - 0.5);
+    }
 
     const quizContainer = document.getElementById('quiz-container');
     quizContainer.innerHTML = "";
@@ -62,12 +66,12 @@ function insertQuiz() {
         numberOfQuestions = quiz.length;
     }
     for(let i = 0; i < numberOfQuestions; i++){
-        let question = quiz[i]["question"];
-        let correct_answer = quiz[i]["correct_answer"];
-        let answer1 = quiz[i]["answer1"];
-        let answer2 = quiz[i]["answer2"];
-        let answer3 = quiz[i]["answer3"];
-        let answer4 = quiz[i]["answer4"];
+        let question = quizCopy[i]["question"];
+        let correct_answer = quizCopy[i]["correct_answer"];
+        let answer1 = quizCopy[i]["answer1"];
+        let answer2 = quizCopy[i]["answer2"];
+        let answer3 = quizCopy[i]["answer3"];
+        let answer4 = quizCopy[i]["answer4"];
         quizContainer.innerHTML += `
     <div class="question" data-number="${i}">
         <h3>${question}</h3>
@@ -83,7 +87,7 @@ function insertQuiz() {
 function checkAnswers() {
     let score = 0;
     for(let i = 0; i < numberOfQuestions; i++){
-        let correct_answer = quiz[i]["correct_answer"];
+        let correct_answer = quizCopy[i]["correct_answer"];
 
         let answer = document.querySelector(`input[name="answer${i}"]:checked`);
         let answerValue = answer.value;
