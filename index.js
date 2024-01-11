@@ -7,7 +7,8 @@ let quizCopy = [] ;
 
 let random = false ;
 
-let numberOfQuestions = 0 ;
+let initialQuestion = 0 ;
+let lastQuestion = 0 ;
 
 form.addEventListener('submit', async (e) => {
     e.preventDefault();
@@ -21,7 +22,8 @@ form.addEventListener('submit', async (e) => {
         random = false ;
     }
 
-    numberOfQuestions = data["number-of-questions"];
+    initialQuestion = data["initial-question"];
+    lastQuestion = data["last-question"];
     // text = data["input-text"];
     // Get text from local file questions.txt
     let response = await fetch('questions.txt') ;
@@ -62,10 +64,10 @@ function insertQuiz() {
 
     const quizContainer = document.getElementById('quiz-container');
     quizContainer.innerHTML = "";
-    if (numberOfQuestions > quiz.length) {
-        numberOfQuestions = quiz.length;
+    if (lastQuestion > quiz.length) {
+        lastQuestion = quiz.length;
     }
-    for(let i = 0; i < numberOfQuestions; i++){
+    for(let i = initialQuestion-1; i < lastQuestion; i++){
         let question = quizCopy[i]["question"];
         let correct_answer = quizCopy[i]["correct_answer"];
         let answer1 = quizCopy[i]["answer1"];
@@ -86,7 +88,7 @@ function insertQuiz() {
 
 function checkAnswers() {
     let score = 0;
-    for(let i = 0; i < numberOfQuestions; i++){
+    for(let i = initialQuestion-1; i < lastQuestion; i++){
         let correct_answer = quizCopy[i]["correct_answer"];
 
         let answer = document.querySelector(`input[name="answer${i}"]:checked`);
@@ -101,7 +103,7 @@ function checkAnswers() {
             answerLabel.style.backgroundColor = "red";
         }
     }
-    alert(`Tu puntuación es de ${score}/${numberOfQuestions}`);
+    alert(`Tu puntuación es de ${score}/${lastQuestion-initialQuestion+1}`);
 }
 
 let checkButton = document.getElementById('check-button');

@@ -11,7 +11,8 @@
     <div id="content-wrapper">
         <form id="form">
             <!-- <textarea name="input-text" id="input-text" cols="30" rows="10"></textarea> -->
-            <label for="number-of-questions">Número de preguntas:<input type="number" name="number-of-questions"></label>
+            <label for="intial-question">Pregunta inicial:<input type="number" name="initial-question" min="1" value="1"></label>
+            <label for="last-question">Pregunta final:<input type="number" name="last-question" min="1" value="2"></label>
             <label for="random-check">Preguntas random? <input type="checkbox" name="random-check"></label>
             <button>Crear Test!</button>
         </form>
