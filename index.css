@@ -7,6 +7,18 @@ h3{
 
 }
 
+form{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+label{
+    display: flex;
+    align-items: center;
+}
+
 #input-text {
     width: 50vw;
     height: 90vh;
@@ -19,4 +31,9 @@ h3{
 
 #quiz-container {
     margin-bottom: 32px;
+}
+
+input[type="checkbox"] {
+    width: 30px;
+    height: 30px;
 }
