@@ -77,10 +77,10 @@ function insertQuiz() {
         quizContainer.innerHTML += `
     <div class="question" data-number="${i}">
         <h3>${question}</h3>
-        <label for="answer1${i}"><input id="answer1${i}" type="radio" name="answer${i}" value="1">${answer1}</label><br>
-        <label for="answer2${i}"><input id="answer2${i}" type="radio" name="answer${i}" value="2">${answer2}</label><br>
-        <label for="answer3${i}"><input id="answer3${i}" type="radio" name="answer${i}" value="3">${answer3}</label><br>
-        <label for="answer4${i}"><input id="answer4${i}" type="radio" name="answer${i}" value="4">${answer4}</label><br>
+        <label for="answer1${i}"><input id="answer1${i}" type="radio" name="answer${i}" value="1">${answer1}</label>
+        <label for="answer2${i}"><input id="answer2${i}" type="radio" name="answer${i}" value="2">${answer2}</label>
+        <label for="answer3${i}"><input id="answer3${i}" type="radio" name="answer${i}" value="3">${answer3}</label>
+        <label for="answer4${i}"><input id="answer4${i}" type="radio" name="answer${i}" value="4">${answer4}</label>
     </div>
 `
     }
