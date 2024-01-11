@@ -4,12 +4,21 @@ let text = "" ;
 
 let quiz = []
 
+let random = false ;
+
 let numberOfQuestions = 0 ;
 
 form.addEventListener('submit', async (e) => {
     e.preventDefault();
     const formData = new FormData(form);
     const data = Object.fromEntries(formData);
+
+    if(data["random"] == "on") {
+        random = true ;
+    }else {
+        random = false ;
+    }
+
     numberOfQuestions = data["number-of-questions"];
     // text = data["input-text"];
     // Get text from local file questions.txt
@@ -44,7 +53,8 @@ form.addEventListener('submit', async (e) => {
 
 function insertQuiz() {
     // Get numberOfQuestions random questions from quiz
-    quiz = quiz.sort(() => Math.random() - 0.5);
+    if (random)
+        quiz = quiz.sort(() => Math.random() - 0.5);
 
     const quizContainer = document.getElementById('quiz-container');
     quizContainer.innerHTML = "";
