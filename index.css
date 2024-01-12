@@ -1,5 +1,6 @@
 *{
     font-size: 1.25rem;
+    font-family: 'Nunito', sans-serif;
 }
 
 html{
@@ -9,13 +10,15 @@ html{
 h3{
     font-size: 2rem;
     margin: 0px;
+    margin-bottom: 8px;
 }
 
 form{
     display: flex;
     justify-content: space-around;
     align-items: center;
-
+    background-color: #d5b7fc;
+    border-radius: 8px;
 }
 
 label{
@@ -41,22 +44,52 @@ label{
 }
 
 /* Label with selected radio input change background */
-label:hover {
-    background-color: #AAC4FF;
+.question label:hover {
+    background-color: #c298f9;
 }
 
 label:has(> input[type="radio"]:checked) {
-    background-color: #AAC4FF;
+    /* background-color: #AAC4FF; */
+    background-color: #d293f7;
 }
 
-input[type="checkbox"] {
+input[type="checkbox"]{
     width: 30px;
     height: 30px;
 }
 
+input[type="radio"]{
+    width: 20px;
+    height: 20px;
+}
+
 .question {
-    background-color: #B1B2FF;
+    background-color: #d5b7fc;
     border-radius: 8px;
-    margin: 8px;
+    margin-top: 8px;
     padding: 32px;
+}
+
+#check-button {
+    background-color: #d5b7fc;
+    border-radius: 8px;
+    padding: 16px;
+    transition: all 0.4s ease-in-out;
+    border: 4px dashed #c298f9;
+}
+
+#check-button:hover {
+    background-color: #c298f9;
+}
+
+form button {
+    background-color: #c298f9;
+    border-radius: 8px;
+    padding: 8px;
+    transition: all 0.4s ease-in-out;
+    border: 4px dashed #b67ffe;
+}
+
+form button:hover {
+    background-color: #b67ffe;
 }

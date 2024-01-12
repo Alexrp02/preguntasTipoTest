@@ -93,16 +93,26 @@ function checkAnswers() {
         console.log(`Checking question ${i+1} with correct answer ${correct_answer}`)
 
         let answer = document.querySelector(`input[name="answer${i}"]:checked`);
-        let answerValue = answer.value;
+        let answerValue = answer?.value;
         let answerLabel = document.querySelector(`div.question[data-number="${i}"] label[for="answer${answerValue}${i}"]`);
-        if(answerValue == correct_answer){
-            answerLabel.style.backgroundColor = "green";
-            score += 1;
+        
+        if (!answer) {
+            document.querySelector(`div.question[data-number="${i}"] label[for="answer${correct_answer}${i}"]`).style.backgroundColor = "green";
+        }
+        else if(answerValue == correct_answer){
+            answerLabel.style.backgroundColor = "green";    
+            score += answer ? 1 : 0;
         }else{
             let correctAnswerLabel = document.querySelector(`div.question[data-number="${i}"] label[for="answer${correct_answer}${i}"]`);
             correctAnswerLabel.style.backgroundColor = "green";
             answerLabel.style.backgroundColor = "red";
         }
+
+        // Disable the radio buttons for this question
+        let radioButtons = document.querySelectorAll(`input[name="answer${i}"]`);
+        radioButtons.forEach(radioButton => {
+            radioButton.disabled = true;
+        });
     }
     alert(`Tu puntuación es de ${score}/${lastQuestion-initialQuestion+1}`);
 }
