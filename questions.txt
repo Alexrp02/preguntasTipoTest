@@ -172,7 +172,7 @@ b) Es debido al azar
 d) Todas son falsas
 
 25.La validez externa:
-a*) Implica la posibilidad de inferir los resultados de un estudio a la población general.
+*a) Implica la posibilidad de inferir los resultados de un estudio a la población general.
 b) Se extrapola los resultados del estudio a la población muestra.
 c) Obtenemos la validez externa cuando no encontramos error aleatorio en el estudio.
 d) Todos los estudios tienen validez externa e interna.

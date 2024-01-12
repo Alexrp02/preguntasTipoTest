@@ -90,6 +90,7 @@ function checkAnswers() {
     let score = 0;
     for(let i = initialQuestion-1; i < lastQuestion; i++){
         let correct_answer = quizCopy[i]["correct_answer"];
+        console.log(`Checking question ${i+1} with correct answer ${correct_answer}`)
 
         let answer = document.querySelector(`input[name="answer${i}"]:checked`);
         let answerValue = answer.value;
