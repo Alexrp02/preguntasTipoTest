@@ -26,26 +26,28 @@ form.addEventListener('submit', async (e) => {
     lastQuestion = data["last-question"];
     // text = data["input-text"];
     // Get text from local file questions.txt
-    let response = await fetch('questions.txt') ;
+    let response = await fetch('Preguntas epi.txt') ;
     text = await response.text() ;
     
     questions = text.split("\r\n");
 
     questions = questions.filter(function (el) {
-        return el != "";
+        return el.trim() != "" && el != "\t";
     })
+    console.log(questions) ;
     
     for(let i = 0; i < questions.length; i+=5){
         let testQuestionAndAnswers = {} ;
-        let question = questions[i].substring(3);
+        let question = questions[i].split(".")[1];
         testQuestionAndAnswers["question"] = question ;
         for(let j=1 ; j<5 ; j++) {
             let answer = questions[i+j] ;
-            if (answer[0] == "*") {
+            console.log(answer)
+            if (answer.charAt(0) == "*") {
                 testQuestionAndAnswers["correct_answer"] = j;
-                answer = answer.substring(4);
+                answer = answer.split(")")[1].trim();
             }else {
-                answer = answer.substring(3);
+                answer = answer.split(")")[1].trim();
             }
             testQuestionAndAnswers["answer"+j] = answer ;
         }

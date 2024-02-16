@@ -1,0 +1,429 @@
+1.Los datos secundarios son:
+a) Aquellos que hemos recogido de primera mano, con nuestra observación.
+b) Son aquellos que han sido procesados por colaboradores nuestros.
+*c) Son aquellos que han sido registrados, recogidos y procesados por otros investigadores.
+d) Son los datos que obtengo de un cuestionario realizado a los individuos de estudio.
+
+2.La estadística sanitaria incluye los estudios de salud bucodental y son realizados por:
+a) El organismo local.
+*b) Por las consejerías de salud de las CCAA.
+c) Por el ministro de Sanidad.
+d) Por cada responsable de Salud provincial.
+
+3.Los datos obtenidos a través de los métodos secundarios no pueden encontrarse en:
+a) Bibliotecas y archivos públicos o privados
+b) Bases de datos
+*c) Blogs personales y redes sociales
+d) Informes y documentos generados por organismos oficiales
+
+4.Dentro de la estadística demográfica no encontramos:
+*a) Encuestas de salud
+b) Censos
+c) Padrón
+d) Estadísticas vitales
+
+5.Los errores de muestreo son aquellos que:
+*a) Para evitarlos se puede aumentar el tamaño de la muestra.
+b) Se producen cuando el entrevistado da una respuesta falsa.
+c) Se evitan verificando los datos para comprobar que han sido completados correctamente.
+d) Ocurren cuando se registra información irrelevante o redundante.
+
+6.Los errores de procesamiento son aquellos que:
+a) Para evitarlos se puede aumentar el tamaño de la muestra.
+b) Se producen cuando el entrevistado da una respuesta falsa.
+*c) Se evitan verificando los datos para comprobar que han sido completados correctamente.
+d) Ocurren cuando se registra información irrelevante o redundante.
+
+
+7.El objetivo principal del entrenamiento y calibración de los examinadores es:
+a) Crear un estilo propio en cada uno para que la obtención de datos sea masiva y poco comparable.
+b) Proporcionarles clase de defensa personal para las posibles situaciones que se le pueden presentar cuando llevan a cabo las encuestas
+c) Darles herramientas para sobrellevar el estrés y el ejercicio físico que supone dedicarse a esto.
+*d) Homogeneizar los procesos de obtención de datos para que estos puedan ser comparables entre distintas poblaciones y estudios.
+
+8.En las sesiones teóricas de la calibración de los examinadores:
+*a) Se analizan los protocolos establecidos, por ejemplo, la secuencia del examen dental, los planes de tratamiento...
+b) Se llevan a cabo los aspectos analizados de forma teórica.
+c) Se actúa sobre un número reducido de pacientes, con el fin de poner en práctica lo aprendido.
+d) Se proyectan presentaciones creadas por los alumnos para así llegar a conocer el temario.
+
+9.En las sesiones prácticas de la calibración de los examinadores:
+a) Se analizan los protocolos establecidos, por ejemplo, la secuencia del examen dental, los planes de tratamiento...
+*b) Se llevan a cabo los aspectos analizados de forma teórica.
+c) Se actúa sobre un número reducido de pacientes, con el fin de poner en práctica lo aprendido.
+d) Se proyectan presentaciones creadas por los alumnos para así llegar a conocer el temario.
+
+10.¿Cuándo utilizamos el sistema ICDAS?
+a) Lo utilizamos para el diagnóstico de las caries
+b) Es un conjunto de datos diversos no consensuados
+c) Nos sirve para obtener datos por medio de la observación
+*d) A y C son correctas
+
+
+11.Las tres fases para unificar la información en criterios medibles son:
+a) Registrar las respuestas y dar a cada respuesta un código específico
+b) Dar a las respuestas un código específico y registrar las respuestas
+c) No es importante la unificación de los datos ya que solo acarrea problemas de tiempo
+*d) Registrar las respuestas, dar a cada respuesta un código específico e introducirlas en una base de datos.
+
+
+12.El principal objetivo de la unificación de datos es:
+a) Quitar mucho tiempo a quien la realiza
+*b) Reducir la información cualitativa a cuantitativa
+c) Crear ansiedad y nervios porque es muy fácil
+d) Reducir la información cuantitativa a cualitativa
+
+13.En la codificación:
+a) Encontramos preguntas cerradas en las cuales realizamos un listado de posibles respuestas a cada pregunta.
+b) Encontramos preguntas cerradas, las cuales se pueden responder con una amplia variación de respuestas
+*c) Encontramos preguntas abiertas y cerradas, a las cuales se les asigna un código distinto dependiendo la respuesta.
+d) La codificación no utiliza ningún tipo de respuesta para unificar los datos en criterios medibles
+
+14.La frecuencia absoluta hace referencia a:
+a) El porcentaje de veces que obtenemos una determinada respuesta respecto al total de las respuestas
+*b) El número de veces que se repite un hecho o que aparece la respuesta o  categoría de respuestas
+c) Se obtiene al dividir la frecuencia relativa entre la absoluta
+d) Ninguna es correcta
+
+15.Algunas de las principales ventajas de CAQDAS son:
+a) Ahorro de tiempo
+b) Organización
+c) Exportación de datos
+*d) Todas son correctas
+
+16.El SPSS:
+*a) Es un software estadístico que incluye métodos para facilitar la recopilación, creación, representación e interpretación de los datos. El programa incluye estadísticas descriptivas.
+b) Es una aplicación creada por los Centros para el Control y la Prevención de Enfermedades (CDC) de Estados Unidos, destinada a profesionales de la salud pública, útil para el cálculo de tamaños de muestras, recopilación de datos y Análisis estadísticos de la información.
+c) Las dos preguntas son lo mismo.
+d) Ninguna es correcta.
+
+17.Dentro de la estadística tenemos dos tipos:
+a) Estadística inferencial, que resume las características más importantes de un grupo de datos determinado y la descriptiva, que utiliza datos muestrales para realizar generalizaciones.
+*b) Estadística descriptiva, que resume las características más importantes de un grupo de datos determinado y la inferencial, que utiliza datos muestrales para realizar generalizaciones.
+c) Estadística poblacional, que resume las características más importantes de un grupo de datos determinado y la mendeliana, que utiliza datos muestrales para realizar generalizaciones.
+d) Estadística de popularidad, que resume las características más importantes de un grupo de datos determinado y la de populacho que utiliza datos muestrales para realizar generalizaciones.
+
+
+18.Se consideran parámetros estadísticos de centralización:
+*a) Media, mediana y moda
+b) Cuartiles y percentiles
+c) Rango, desviación media, varianza y desviación típica
+d) Todas son correctas
+
+19.Se consideran parámetros de posición:
+a) Media, mediana y moda
+*b) Cuartiles y percentiles
+c) Rango, desviación media, varianza y desviación típica
+d) Todas son correctas
+
+20.Se consideran parámetros de dispersión:
+a) Media, mediana y moda
+b) Cuartiles y percentiles
+*c) Rango, desviación media, varianza y desviación típica
+d) Todas son correctas
+
+21.Una de las aplicaciones más conocidas prácticas de los percentiles es:
+*a) La medida del peso y la altura de los bebés para ver si hay algún problema en su desarrollo.
+b) La medida del crecimiento del pelo y de las uñas en los bebés para ver si hay algún problema en su desarrollo.
+c) La medida del crecimiento del lóbulo de la oreja en los bebés para ver si hay algún problema en su desarrollo.
+d) La medida del crecimiento de los surcos de las manitas y piernitas para ver si hay algún problema en su desarrollo.
+
+22.Cual de estos errores NO es frecuente a la hora de la recolección de datos:
+a) Errores de no respuesta y respuesta
+b) Errores de muestreo
+c) Errores de procesamiento
+*d) Errores de seguimiento
+
+23.¿Cuál de estas cuestiones no se incluye en un informe de una investigación?:
+a) Qué se ha investigado
+*b) Los datos del investigador
+c) Cómo se ha llevado a cabo la investigación
+d) Resultados que se han obtenido
+
+24.Es importante que la bibliografía esté en un formato adecuado?
+a) Si
+b) No
+c) Si, en formato ISO
+*d) Si, en formato APA
+
+25.Los blogs personales, webs de empresas o revistas no científicas son:
+a) Herramientas fiables y recomendables a la hora de elaborar un informe epidemiológico.
+b) Herramientas de uso obligatorio a la hora de elaborar un informe de datos cuantitativos epidemiológicos.
+*c) Herramientas que se corresponden con fuentes no fiables y que hacen una valoración sin fundamento científico.
+d) Todas son correctas.
+
+26. El servidor interactivo Ariadna:
+*a) Ofrece la mortalidad por distintos tipos de cáncer en los municipios de España.
+b) Muestra gráficas de mortalidad que pueden ser definidas por el usuario.
+c) Muestra gráficas y estadísticas sobre mortalidad cardiovascular.
+d) Muestra la mortalidad diaria actualizada.
+
+27. MoMo es un servidor que:
+a) Ofrece la mortalidad por distintos tipos de cáncer en los municipios de España.
+b) Muestra gráficas de mortalidad que pueden ser definidas por el usuario.
+c) Muestra gráficas y estadísticas sobre mortalidad cardiovascular.
+*d) Muestra la mortalidad diaria actualizada.
+
+28. Dentro de las aplicaciones informáticas de utilidad encontramos:
+a) Ariadna, Raziel y Minerva
+*b) AEGIS, SIP y SPSS
+c) AMICALES, Annal of Epidemiology y OpenWHO entre otras
+d) SPSS y Epi info.
+
+29. Dentro de las aplicaciones móviles de utilidad encontramos:
+a) Ariadna, Raziel y Minerva
+b) AEGIS, SIP y SPSS
+*c) AMICALES, Annal of Epidemiology y OpenWHO entre otras
+d) SPSS y Epi info.
+
+
+30.¿Cuál de estas no es una característica de un buen indicador de salud?
+a) Validez
+b) Confiabilidad
+c) Sensibilidad
+*d) Prevalencia
+
+
+31.La tasa de prevalencia de hipertensión arterial y la proporción de los ingresos hospitalarios por causas externas son indicadores...
+a) Socioeconómicos
+b) De recursos y servicios
+*c) De morbilidad
+d) Demográficos
+
+32.¿Cuál de estos sería un indicador de salud de mortalidad?
+*a) La tasa de mortalidad infantil
+b) La tasa de fertilidad
+c) Proporción de población vacunada.
+d) La tasa de prevalencia de hipertensión arterial
+
+33.¿Cuál de estos indicadores muestra una característica positiva de la población?
+a) Alta tasa de mortalidad
+b) Baja tasa de natalidad.
+*c) Baja tasa de mortalidad
+d) Alta tasa de proporción de ingresos hospitalarios.
+
+34. Atendiendo a los datos de la OMS, ¿cuál de estos trastornos no es uno de los principales problemas de salud bucodental?
+a) Caries dental
+b) Periodontopatías
+c) Traumatismos bucodentales
+*d) Halitosis
+
+35.¿Cuál es el trastorno bucodental y sanitario en general más frecuente del mundo?
+*a) Caries.
+b) Cáncer oral.
+c) Herpes labial.
+d) Labio leporino
+
+36.¿De qué no se encarga la odontología comunitaria?
+a) Prevenir los problemas de salud oral de la población
+b) Diagnosticar los problemas de salud oral de la población
+c) Tratar los problemas de salud oral de la población
+*d) Prevenir los problemas de salud oral de manera individual desde las clínicas dentales.
+
+37.¿Cuál de estas no es una etapa del plan de acción de la odontología comunitaria?
+a) Análisis
+b) Encuesta
+*c) Examen clínico
+d) Planificación de un programa de salud
+
+
+38.¿De qué no se encarga la odontología preventiva?
+*a) Prevenir los problemas de salud oral de manera individual desde las clínicas dentales.
+b) Llevar a cabo revisiones periódicas
+c) Realizar exámenes clínicos
+d) Establecer un diagnóstico para cada paciente
+
+39.¿Cuál es la definición más correcta de salud según la OMS?
+a) Estado de completo bienestar físico
+*b) Estado de completo bienestar físico, mental y social, y no solo la ausencia de molestias o enfermedades
+c) Ausencia de enfermedades
+d) Estado de completo bienestar psicológico
+	
+40.¿Cuál es la definición más correcta de salud bucodental según la OMS?
+a) Ausencia de cualquier patología bucodental
+b) Bienestar bucodental completo
+*c) Ausencia de dolor orofacial, cáncer de boca o de garganta, infecciones y llagas bucales, enfermedades periodontales, caries, pérdida de dientes y otras enfermedades y trastornos que limitan en la persona afectada la capacidad de morder, masticar, sonreír y hablar, al tiempo que repercute en su bienestar psicosocial.
+d) Estado de completo bienestar oral
+
+41.¿Cuál de estos no es un índice de caries?
+a) Índice CAOS
+b) Índice CAOM
+*c) Índice COOS
+d) Índice CAOMS
+
+42.¿Qué índice nos sirve para diferenciar caries activas de inactivas?
+a) Índice CAOS
+b) Índice de caries de raíz
+c) Índice COOS
+*d) Índice de Nyvad
+
+43.¿Qué índice se emplea normalmente para programas relacionados con prevención bucodental?
+*a) Índice CAOS
+b) Índice de caries de raíz
+c) Índice COOS
+d) Índice de Nyvad
+
+   
+44.¿Qué índice tiene como fórmula el número de dientes permanentes cariados, ausente y obturados dividido por el total de individuos estudiados?
+a) Índice CAOS
+b) Índice de caries de raíz
+c) Índice COOS
+*d) Índice CAOD
+
+45. No es uno de los tres grupos en los que se clasifican los índices de enfermedad periodontal
+a) Índices de higiene oral
+*b) Índices de dentina
+c) Índices gingivales
+d) Índices periodontales y de tratamientos
+
+46.En este índice se utiliza eritrosina para teñir zonas cubiertas de placa dentaria...
+*a) Índice de O ́Leary
+b) Índice de Löe y Silness
+c) CPITN
+d) Índice de maloclusión
+
+47. En el Índice de Löe y Silness el grado 2 se corresponde a...
+a) No hay placa
+*b) Se observa placa bacteriana a simple vista
+c) Hay placa bacteriana que rodea al diente, incluso en espacios interdentales
+d) No hay placa a simple vista pero se observa placa al pasar la sonda
+
+48.El Índice de Löe y Silness es un índice...
+a) De higiene oral
+*b) Gingival
+c) De necesidad de tratamiento periodontal de la comunidad
+d) De fluorosis
+
+49.¿Qué índice nos sirve para vincular la localización de las caries, su tamaño y su susceptibilidad?
+a) Índice de O ́Leary
+b) Índice de Löe y Silness
+*c) Índice de Mount y Hume
+d) Índice de maloclusión
+
+50.¿Cuál es el sistema más usado para clasificar la mala oclusión?
+a) Clasificación de O ́Leary
+b) Clasificación de Löe y Silness
+c) Clasificación de Mount y Hume
+*d) Clasificación de Angle
+
+    
+51.¿Qué índice nos sirve para estudiar el nivel de fluorosis?
+*a) Índice de Dean
+b) Índice de caries de raíz
+c) Índice COOS
+d) Índice de Nyvad
+
+52.¿En cuántas categorías se estructura la clasificación de Angle?
+a) 1
+b) 2
+*c) 3
+d) 4
+
+53.¿Cuál de estos síntomas/signos no se corresponde a una fluorosis?
+*a) Sangrado gingival
+b) Hipocalcificación del esmalte
+c) Hipoplasia del esmalte
+d) Manchas de color marrón en los dientes
+
+54.¿En el índice de Dean que significa una fluorosis moderada?
+a) Órganos dentarios sanos
+b) El esmalte muestra ligeras alteraciones de translucidez
+*c) Pequeñas manchas opacas dispersas por la corona
+d) Marcado desgaste de tinte pardo o marronáceo en el esmalte
+
+55. ¿Cuál de éstas no es una característica de un buen indicador de salud bucodental?
+a) Confiabilidad
+*b) Repetitividad
+c) Especificidad
+d) Relevancia
+
+56.Entre los factores de riesgo más importantes según la OMS NO encontramos:
+a) La insuficiencia ponderal
+*b) El consumo moderado de alcohol
+c) El agua insalubre
+d) La falta de higiene
+
+57.Los factores de riesgo compartidos entre las enfermedades crónicas y agudas encontramos:
+a) Alimentación inadecuada, consumo moderado de alcohol y vida activa
+b) Buena alimentación, consumo excesivo de alcohol y tabaco y una vida activa
+*c) Una alimentación inadecuada, consumo excesivo de alcohol y tabaco y una vida sedentaria
+d) Todas son falsas
+
+58.Algunos de los riesgos específicos dentro de la salud bucodental:
+a) Una higiene oral eficiente
+*b) Aspectos genéticos y biológicos
+c) Un buen programa de información sobre educación para salud oral
+d) Un buen acceso a los servicios odontológicos
+
+59.Las bacterias:
+a) Son un factor etiológico de las caries
+b) Producen los ácidos que provocan las caries por la fermentación de los hidratos de carbono de la dieta
+c) La flora bacteriana varía entre individuos
+*d) Todas son correctas
+
+60.La periodontitis:
+a) Es una enfermedad inflamatoria aguda, es decir es reversible que afecta solo a la encía
+*b) Es una enfermedad inflamatoria crónica, es decir, irreversible, que afecta a todos los tejidos
+c) Es una enfermedad inflamatoria crónica, es decir, reversible, que afecta a todos los tejidos
+d) Todas son falsas
+
+61.El Biofilm:
+a) Es el primer paso para la formación de la placa bacteriana
+b) Está formado por una capa de bacterias
+c) El cepillado ayuda a su eliminación
+*d) Todas son correctas
+
+62.¿Cuál no es un factor que provoca la aparición de caries?
+a) Bacterias
+b) Tiempo
+c) Dieta
+*d) Ninguna es correcta
+
+63.Los hábitos alimentarios son de vital importancia en la evolución de las caries:
+a) Absolutamente todos los alimentos son perjudiciales
+b) La alta frecuencia de consumo de alimentos fermentables es un elemento de protección
+*c) El xilitol es una sustancia edulcorante no fermentable por lo que no produce ácidos y estimula la producción de saliva
+d) Todas son falsas
+
+64.Entre las recomendaciones para la prevención del cáncer oral encontramos:
+a) Mantener una vida activa
+b) Evitar el consumo de tabaco
+c) Tener cuidado con la exposición solar
+*d) Todas son correctas.
+
+
+65.Según los últimos mapas de prevalencia de caries, esta...:
+*a) Se ha reducido considerablemente
+b) Ha aumentado sobre todo en los países más desarrollados
+c) Sigue manteniéndose como la enfermedad crónica menos extendida y común
+d) Sigue manteniéndose constante, en todos los países por igual
+
+66.Según los últimos estudios, la periodontitis:
+a) Su incidencia y su prevalencia no varían en función de la zona y el país
+*b) La prevalencia aumenta con la edad, con un pico en torno a los 38 años
+c) La prevalencia disminuye con la edad, con un pico en los 12 años
+d) Su incidencia y su prevalencia varían en función de la zona, pero no del país
+
+67. Sobre la prevalencia del cáncer oral:
+a) En ciertos países asiáticos y del Pacífico, este ocupa el 3º puesto debido a su alta incidencia
+b) En España se diagnostican 7.000 casos al año
+c) La tasa de supervivencia puede llegar al 90%
+*d) Todas son correctas
+
+68.¿Cuál de los siguientes no es un factor de riesgo para el cáncer oral?
+a) Tabaco
+b) VPH
+*c) VIH
+d) Dietas desequilibradas
+
+69. En el caso de las comunicaciones orales, los criterios MAGIC, la A hace referencia a:
+*a) Hacerlo con un lenguaje fluido
+b) Características que lo hagan creíble
+c) Atractiva para el público
+d) Generalización de los resultados
+
+70.En el caso de las comunicaciones orales, los criterios MAGIC, la I hace referencia a:
+a) Hacerlo con un lenguaje fluido
+b) Características que lo hagan creíble
+*c) Atractiva para el público
+d) Generalización de los resultados
