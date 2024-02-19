@@ -29,7 +29,7 @@ form.addEventListener('submit', async (e) => {
     let response = await fetch('Preguntas epi.txt') ;
     text = await response.text() ;
     
-    questions = text.split("\r\n");
+    questions = text.split("\n");
 
     questions = questions.filter(function (el) {
         return el.trim() != "" && el != "\t";
