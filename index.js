@@ -71,7 +71,7 @@ function insertQuiz() {
 	}
 	for (let i = initialQuestion - 1; i < lastQuestion; i++) {
 		let question = quizCopy[i]["question"];
-		let correct_answer = quizCopy[i]["correct_answer"];
+		// let correct_answer = quizCopy[i]["correct_answer"];
 		let answer1 = quizCopy[i]["answer1"];
 		let answer2 = quizCopy[i]["answer2"];
 		let answer3 = quizCopy[i]["answer3"];
