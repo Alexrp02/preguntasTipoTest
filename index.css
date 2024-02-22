@@ -7,6 +7,13 @@ html{
     background-color: #EEF1FF;
 }
 
+@media (width < 600px) {
+  :root {
+	font-size: 20px ;
+  }
+}
+
+
 h3{
     font-size: 2rem;
     margin: 0px;
@@ -19,6 +26,16 @@ form{
     align-items: center;
     background-color: #d5b7fc;
     border-radius: 8px;
+}
+
+@media (width < 600px) {
+  form {
+	flex-direction: column;
+  }
+  
+  form input[type="number"] {
+	width: 10ch;
+  }
 }
 
 label{
