@@ -1,27 +1,38 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tipo test</title>
-    <link rel="shortcut icon" href="assets/favicon.ico" type="image/x-icon">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="index.css">
-    <script src="index.js" defer></script>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Tipo test</title>
+	<link rel="shortcut icon" href="assets/favicon.ico" type="image/x-icon">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;700&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="index.css">
+	<script src="index.js" defer></script>
 </head>
+
 <body>
-    <div id="content-wrapper">
-        <form id="form">
-            <!-- <textarea name="input-text" id="input-text" cols="30" rows="10"></textarea> -->
-            <label for="intial-question">Pregunta inicial:<input type="number" name="initial-question" min="1" value="1"></label>
-            <label for="last-question">Pregunta final:<input type="number" name="last-question" min="1" value="2"></label>
-            <label for="random-check">Preguntas random? <input type="checkbox" name="random-check"></label>
-            <button>Crear Test!</button>
-        </form>
-        <div id="quiz-container"></div>
-        <button id="check-button">Comprobar</button>
-    </div>
+	<div id="content-wrapper">
+		<form id="form">
+			<!-- <textarea name="input-text" id="input-text" cols="30" rows="10"></textarea> -->
+			<label for="intial-question">Pregunta inicial:<input type="number" name="initial-question" min="1"
+					value="1"></label>
+			<label for="last-question">Pregunta final:<input type="number" name="last-question" min="1"
+					value="2"></label>
+			<label for="random-check">Preguntas random? <input type="checkbox" name="random-check"></label>
+			<label for="trimestre">Trimestre:
+				<select name="trimestre">
+					<option value="primero">Primer trimestre</option>
+					<option value="segundo">Segundo trimestre</option>
+				</select>
+			</label>
+			<button>Crear Test!</button>
+		</form>
+		<div id="quiz-container"></div>
+		<button id="check-button">Comprobar</button>
+	</div>
 </body>
+
 </html>

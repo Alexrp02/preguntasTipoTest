@@ -12,6 +12,7 @@ let lastQuestion = 0;
 
 form.addEventListener('submit', async (e) => {
 	e.preventDefault();
+	quiz = [];
 	const formData = new FormData(form);
 	const data = Object.fromEntries(formData);
 	console.log(data);
@@ -26,7 +27,18 @@ form.addEventListener('submit', async (e) => {
 	lastQuestion = data["last-question"];
 	// text = data["input-text"];
 	// Get text from local file questions.txt
-	let response = await fetch('Preguntas epi.txt');
+	let response;
+	switch (data["trimestre"]) {
+		case "primero":
+			response = await fetch('questions.txt');
+			break;
+		case "segundo":
+			response = await fetch('Preguntas epi.txt');
+			break;
+		default:
+			response = await fetch('questions.txt');
+			break;
+	}
 	text = await response.text();
 
 	let questions = text.split("\n");
@@ -42,7 +54,7 @@ form.addEventListener('submit', async (e) => {
 		testQuestionAndAnswers["question"] = question;
 		for (let j = 1; j < 5; j++) {
 			let answer = questions[i + j];
-			console.log(answer)
+			// console.log(answer)
 			if (answer.charAt(0) == "*") {
 				testQuestionAndAnswers["correct_answer"] = j;
 				answer = answer.split(")")[1].trim();
@@ -53,7 +65,7 @@ form.addEventListener('submit', async (e) => {
 		}
 		quiz.push(testQuestionAndAnswers);
 	}
-	console.log(quiz);
+	// console.log(quiz);
 	insertQuiz();
 });
 
