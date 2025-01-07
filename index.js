@@ -25,21 +25,21 @@ form.addEventListener('submit', async (e) => {
 
 	initialQuestion = data["initial-question"];
 	lastQuestion = data["last-question"];
-	// text = data["input-text"];
+	 text = data["input-text"];
 	// Get text from local file questions.txt
-	let response;
-	switch (data["trimestre"]) {
-		case "primero":
-			response = await fetch('questions.txt');
-			break;
-		case "segundo":
-			response = await fetch('Preguntas epi.txt');
-			break;
-		default:
-			response = await fetch('questions.txt');
-			break;
-	}
-	text = await response.text();
+	//let response;
+	//switch (data["trimestre"]) {
+	//	case "primero":
+	//		response = await fetch('questions.txt');
+	//		break;
+	//	case "segundo":
+	//		response = await fetch('Preguntas epi.txt');
+	//		break;
+	//	default:
+	//		response = await fetch('questions.txt');
+	//		break;
+	//}
+	//text = await response.text();
 
 	let questions = text.split("\n");
 
@@ -70,6 +70,7 @@ form.addEventListener('submit', async (e) => {
 });
 
 function insertQuiz() {
+	document.getElementById("input-text").style.display = "none";
 	quizCopy = quiz.slice();
 	// Get numberOfQuestions random questions from quiz
 	if (random) {
@@ -129,6 +130,7 @@ function checkAnswers() {
 		});
 	}
 	alert(`Tu puntuación es de ${score}/${lastQuestion - initialQuestion + 1}`);
+	document.getElementById("input-text").style.display = "block";
 }
 
 let checkButton = document.getElementById('check-button');
